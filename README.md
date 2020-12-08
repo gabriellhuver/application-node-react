@@ -8,7 +8,7 @@ O backend ja tem autenticação com JWT e websocket em todas as rotas
 
 Pasta devops tem o docker-compose do banco postgresSQL com a pagina de administrador
 
-Para fazer toda a instalação, basta executar o install.sh no /devops
+Para fazer toda a instalação, basta executar o `install.sh` na pasta `/devops` 
 
 
 ### Criação do banco
